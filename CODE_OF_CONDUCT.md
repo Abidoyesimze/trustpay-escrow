@@ -59,8 +59,9 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the project team responsible for enforcement at
-[security@trustpay.network](mailto:security@trustpay.network).
+reported privately to the project team responsible for enforcement through
+[GitHub Private Vulnerability Reporting](https://github.com/Abidoyesimze/trustpay-escrow/security/advisories/new)
+or by DM to [@Abidoyesimze](https://github.com/Abidoyesimze).
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
