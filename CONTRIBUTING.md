@@ -27,7 +27,7 @@ TrustPay Escrow follows a structured branch hierarchy to ensure stability on `ma
 
 ## 🧭 Code of Conduct
 
-All contributors and maintainers are expected to abide by our [Code of Conduct](CODE_OF_CONDUCT.md). Please report any unacceptable behavior privately through [GitHub Private Vulnerability Reporting](https://github.com/Abidoyesimze/trustpay-escrow/security/advisories/new) or by DM to [@Abidoyesimze](https://github.com/Abidoyesimze).
+All contributors and maintainers are expected to abide by our [Code of Conduct](CODE_OF_CONDUCT.md). Please report any unacceptable behavior privately by GitHub DM to [@OluwapelumiElisha](https://github.com/OluwapelumiElisha), or through the repository's Security tab when Private Vulnerability Reporting is enabled.
 
 ---
 

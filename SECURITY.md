@@ -22,8 +22,8 @@ If you discover a potential security vulnerability within TrustPay Escrow (smart
 
 ### Disclosure Channel
 
-- **Primary Contact (preferred):** [GitHub Private Vulnerability Reporting](https://github.com/Abidoyesimze/trustpay-escrow/security/advisories/new) — open a private advisory from the **Security** tab. This is enabled for this repository and is the fastest way to reach the maintainers privately.
-- **Backup Contact:** GitHub DM to the repository owner, [@Abidoyesimze](https://github.com/Abidoyesimze), if private reporting is unavailable to you.
+- **Primary Contact:** GitHub DM to the maintainer [@OluwapelumiElisha](https://github.com/OluwapelumiElisha). This channel is monitored and works today.
+- **Private advisory:** If GitHub Private Vulnerability Reporting is enabled for this repository, use the **Security** tab → **Report a vulnerability**: [open a private advisory](https://github.com/trustpay-escrow/trustpay-escrow/security/advisories/new). If that option is unavailable, use the maintainer DM above.
 
 Please do not open a public issue for sensitive findings. The former `security@trustpay.network` mailbox is not monitored and has no working mail exchange; use the channels above instead.
 
